@@ -19,4 +19,4 @@ This site is published from the root of the `main` branch with GitHub Pages.
 
 To replace the portrait or CV, upload a new file using the same filename: `yuxuan-pan.jpg` or `CV_Yuxuan_Pan.pdf`. Keeping the filename unchanged avoids editing the links in `index.html`.
 
-The AEC 624 teaching links point to `vif-lab.html` and `wage_equation_exercise.html`. Edit those files directly to update the class materials.
+The AEC 624 teaching links point to `vif-lab.html`, `wage_equation_exercise.html`, and `heteroskedasticity-lab.html` (Chapter 8). Edit those files directly to update the class materials.
